@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin:  0;
+    background-color: #fff;
+}
+body{
+    min-height:100vh;
+}
+.container{
+    padding-top:50px;
+}
