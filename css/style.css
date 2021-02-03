@@ -3,6 +3,13 @@
   padding-right:20px;
 }
 
-a{
+a.github_links{
   font-style: italic;
+}
+a.project-container-link{
+  text-decoration: none;
+  color:black;
+}
+div.project{
+  border: 1px normal black;
 }
